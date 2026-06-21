@@ -1,0 +1,18 @@
+Sistema operativo: Es el software principal que administra el hardware, la memoria RAM, 
+el procesador, el disco duro, etc. Por ejemplo, le da permiso a Node.js para ejecutarse
+le asigna memoria y controla el acceso a la red y a los archivos.
+Node.js: Es el entorno de ejecución que permite correr código de JavaScript 
+fuera del navegador web (directamente en la computadora/servidor), utilizando un modelo 
+de operaciones de entrada/salida.
+Aplicación server.js: Es el archivo de script de entrada escrito en JavaScript Contiene
+la lógica de la aplicación, como la configuración de los módulos (como Express), la
+declaración de las rutas HTTP (endpoints) y las funciones controladoras que determinan 
+la respuesta que el backend enviará a cada solicitud del cliente.
+Puerto: Es una interfaz lógica o identificador numérico utilizado por los protocolos 
+de transporte de la suite de internet (como TCP y UDP) para canalizar el tráfico de 
+datos hacia un proceso o aplicación específica dentro de una máquina conectada a una
+red. Permite que múltiples servicios de red coexistan en una sola dirección IP.
+Logs: Son registros cronológicos de eventos generados de forma automática por 
+el sistema o la plicación durante su ejecución. Se almacenan en archivos de texto 
+plano y contienen metadatos (como marcas de tiempo, niveles de severidad que permiten 
+auditar el comportamiento del servidor, rastrear errores y analizar el tráfico de datos.

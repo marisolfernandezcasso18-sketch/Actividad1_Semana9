@@ -1,0 +1,9 @@
+La estabilidad y la seguridad de una plataforma tecnológica en un servidor son 
+condiciones críticas porque determinan la viabilidad operativa y la integridad de 
+los procesos de la comunidad que la utiliza. Las plataformas comunitarias coordinan 
+procesos asincrónicos o eventos críticos en tiempo real como asambleas, votaciones, 
+reportes.Un servidor configurado de forma eficiente maximiza el rendimiento del 
+hardware disponible pero si es inestable consume recursos de forma desmedida e
+incrementa los costos de mantenimiento, acorta la vida útil del hardware o exige 
+migraciones costosas a servicios en la nube que la comunidad no puede sostener de 
+forma autónoma.
