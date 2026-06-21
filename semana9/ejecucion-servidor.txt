@@ -2,8 +2,10 @@
 Al ejecutar este comando, el entorno de Node.js lee el código fuente del archivo 'server.js'
 y ejecuta. El código inicializa la aplicación (generalmente usando Express) y activa el
 servidor para que realice las peticiones entrantes en el puerto 3000
-¿Qué mensaje aparece en la terminal'
-Servidor corriendo en http://localhost:3000"
+¿Qué mensaje aparece en la terminal?
+Servidor ejecutándose en puerto 3000
 ¿Qué sucede cuando visitas la ruta /estado?
-Cuando se visita 'http://localhost:3000/estado', el navegador envía una solicitud
-HTTP de tipo GET al servidor.
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

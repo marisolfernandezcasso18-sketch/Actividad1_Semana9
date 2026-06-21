@@ -1,0 +1,8 @@
+
+GET  http://localhost:3000/estado
+Content-Type: application/json
+
+{
+  "nombre": "Carlos Gómez",
+  "mensaje": "Hola, este es un mensaje de prueba para el registro."
+}
